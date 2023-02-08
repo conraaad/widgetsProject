@@ -1,6 +1,7 @@
 # widgets_project
 
-A new Flutter project.
+Aquest és un projecte de flutter amb diferents widgets concrets, per anar provant com funcionen i tal.
+Agafeu i preneu d'exemple tot el que vulgueu. 
 
 ## Getting Started
 
